@@ -7,18 +7,21 @@ image-hero: /assets/images/projects/youthjusticenav-hero.png
 alt: 'Youth Justice Nav'
 leadership:
   - name: Bonnie Wolfe
+    github-handle:  
     role: Agile Coach
     links:
       slack: 'https://hackforla.slack.com/team/UE1UG1YFP'
       github: 'https://github.com/ExperimentsInHonesty'
     picture: 'https://avatars.githubusercontent.com/ExperimentsInHonesty'
   - name: Leroy Tung
+    github-handle: 
     role: Product Manager
     links:
       slack: 'https://hackforla.slack.com/team/U01G75XUYHX'
       github: 'https://github.com/ltung05'
     picture: 'https://avatars.githubusercontent.com/ltung05'
   - name: Rabia Shaikh
+    github-handle:
     role: Project Manager
     links:
       slack: 'https://hackforla.slack.com/team/U01QSJ10XRA'
@@ -39,6 +42,7 @@ leadership:
       github: 'https://github.com/mojimoh'
     picture: 'https://avatars.githubusercontent.com/mojimoh'
   - name: Anousha Shadrach
+    github-handle:
     role: Lead, UX Design
     links:
       slack: 'https://hackforla.slack.com/team/U045EHW8NDA'
